@@ -8,8 +8,8 @@ API link: https://v1.data.uccf.io/api/christian-unions/expand
 ## Installation & Setup
 1. Clone the repository
 ```bash
-git clone [YOUR_REPO_URL]
-cd [YOUR_REPO_NAME]
+git clone https://github.com/Firehart27/uccf-application-activity.git
+cd uccf-application-activity.git
 ```
 2. Create a virtual environment
 ```bash
